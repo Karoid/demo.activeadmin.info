@@ -1,24 +1,24 @@
 --- 
 - :price: "23.75"
   :author: "David Flanagan and Yukihiro Matsumoto "
-  :title: The Ruby Programming Language
+  :title: "⏰⏰The Ruby Programming Language"
   :image_file_name: the-ruby-programming-language.jpg
   :featured: true
   :available_on: 2011-02-16
 - :price: "28.20"
-  :author: "Dave Thomas, Chad Fowler,  and Andy Hunt "
-  :title: "Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
+  :author: "☕☕Dave Thomas, Chad Fowler,  and Andy Hunt "
+  :title: "☕Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
   :image_file_name: programming-ruby-1-9-the-pragmatic-programmers-guide-facets-of-ruby-.jpg
   :featured: true
   :available_on: 2011-02-16
 - :price: "22.61"
   :author: "Peter Cooper "
-  :title: "Beginning Ruby: From Novice to Professional"
+  :title: "☕Beginning Ruby: From Novice to Professional"
   :image_file_name: beginning-ruby-from-novice-to-professional.jpg
   :available_on: 2011-02-16
 - :price: "20.50"
   :author: "Paolo Perrotta "
-  :title: "Metaprogramming Ruby: Program Like the Ruby Pros"
+  :title: "☕Metaprogramming Ruby: Program Like the Ruby Pros"
   :image_file_name: metaprogramming-ruby-program-like-the-ruby-pros.jpg
   :available_on: 2011-02-16
 - :price: "27.99"
@@ -43,7 +43,7 @@
   :available_on: 2011-02-16
 - :price: "23.07"
   :author: "Bruce Tate "
-  :title: "Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
+  :title: "☕Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
   :image_file_name: seven-languages-in-seven-weeks-a-pragmatic-guide-to-learning-programming-languages-pragmatic-programmers-.jpg
   :featured: true
   :available_on: 2011-02-16
@@ -64,17 +64,17 @@
   :available_on: 2011-02-16
 - :price: "28.20"
   :author: "Dave Thomas, Chad Fowler,  and Andy Hunt "
-  :title: "Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
+  :title: "☕Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
   :image_file_name: programming-ruby-1-9-the-pragmatic-programmers-guide-facets-of-ruby-.jpg
   :available_on: 2011-02-16
 - :price: "22.61"
   :author: "Peter Cooper "
-  :title: "Beginning Ruby: From Novice to Professional"
+  :title: "☕Beginning Ruby: From Novice to Professional"
   :image_file_name: beginning-ruby-from-novice-to-professional.jpg
   :available_on: 2011-02-16
 - :price: "20.50"
   :author: "Paolo Perrotta "
-  :title: "Metaprogramming Ruby: Program Like the Ruby Pros"
+  :title: "☕Metaprogramming Ruby: Program Like the Ruby Pros"
   :image_file_name: metaprogramming-ruby-program-like-the-ruby-pros.jpg
   :available_on: 2011-02-16
 - :price: "27.99"
@@ -100,7 +100,7 @@
   :available_on: 2011-02-16
 - :price: "23.07"
   :author: "Bruce Tate "
-  :title: "Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
+  :title: "☕Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
   :image_file_name: seven-languages-in-seven-weeks-a-pragmatic-guide-to-learning-programming-languages-pragmatic-programmers-.jpg
   :available_on: 2011-02-16
 - :price: "9.99"
@@ -120,17 +120,17 @@
   :available_on: 2011-02-16
 - :price: "28.20"
   :author: "Dave Thomas, Chad Fowler,  and Andy Hunt "
-  :title: "Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
+  :title: "☕Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)"
   :image_file_name: programming-ruby-1-9-the-pragmatic-programmers-guide-facets-of-ruby-.jpg
   :available_on: 2011-02-16
 - :price: "22.61"
   :author: "Peter Cooper "
-  :title: "Beginning Ruby: From Novice to Professional"
+  :title: "☕Beginning Ruby: From Novice to Professional"
   :image_file_name: beginning-ruby-from-novice-to-professional.jpg
   :available_on: 2011-02-16
 - :price: "20.50"
   :author: "Paolo Perrotta "
-  :title: "Metaprogramming Ruby: Program Like the Ruby Pros"
+  :title: "☕Metaprogramming Ruby: Program Like the Ruby Pros"
   :image_file_name: metaprogramming-ruby-program-like-the-ruby-pros.jpg
   :available_on: 2011-02-16
 - :price: "27.99"
@@ -155,7 +155,7 @@
   :available_on: 2011-02-16
 - :price: "23.07"
   :author: "Bruce Tate "
-  :title: "Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
+  :title: "☕Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)"
   :image_file_name: seven-languages-in-seven-weeks-a-pragmatic-guide-to-learning-programming-languages-pragmatic-programmers-.jpg
   :available_on: 2011-02-16
 - :price: "9.99"
