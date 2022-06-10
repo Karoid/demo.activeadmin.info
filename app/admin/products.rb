@@ -18,7 +18,7 @@ ActiveAdmin.register Product do
       f.semantic_errors
 
       f.input :title
-      f.input :description
+      f.input :description, as: :rich_text_area
       f.input :author
       f.input :price
       f.input :available_on

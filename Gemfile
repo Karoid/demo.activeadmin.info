@@ -12,7 +12,7 @@ gem "uglifier", ">= 1.3.0"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
 
-gem "activeadmin"
+gem 'activeadmin', git: 'https://github.com/Karoid/activeadmin.git', branch: '6106-actiontext-support'
 gem "devise"
 gem "sassc-rails", "~> 2.1"
 
